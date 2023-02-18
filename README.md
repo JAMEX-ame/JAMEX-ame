@@ -18,6 +18,10 @@
 
 - [255doesnotexist/YSUNetLogin](https://github.com/255doesnotexist/YSUNetLogin)
 
+### Avatar
+
+- [Picrewの「少年少女好き？２」でつくったよ！](https://picrew.me/share?cd=WM0ImhzQp3) （#Picrew #少年少女好き２）
+
 <span>
   <a href="https://www.github.com/255doesnotexist">
     <img src="https://github-readme-stats.vercel.app/api?username=255doesnotexist&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%; margin-right: 1%">
