@@ -3,7 +3,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://tianyitap.com" target="_blank">Tianyitap</a> |
   <a href="mailto:chenyejin2004@stumail.ysu.edu.cn">Email</a> |
   <a href="https://space.bilibili.com/10556301" target="_blank">Bilibili</a> |
   <a href="https://twitter.com/255p_twi" target="_blank">Twitter</a> |
