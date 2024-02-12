@@ -29,6 +29,7 @@
 
 <span>
   <a href="https://www.github.com/255doesnotexist">
-    <img src="https://github-readme-stats.vercel.app/api?username=255doesnotexist&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%; margin-right: 1%"></img>
+     <img src="https://github-readme-stats.vercel.app/api?username=255doesnotexist&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
+     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=255doesnotexist&layout=compact&langs_count=8" alt="Top Langs" height="185px" />
   </a>
 </span>
