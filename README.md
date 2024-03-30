@@ -15,7 +15,7 @@
 
 ### Experience
 
-- Yanshan University, School of Information Science and Engineering, AIoT Group Affiliate Member (July 2023 - Present)
+- Yanshan University, School of Information Science and Engineering, AIoT Group (July 2023 - Present)
 
 ### Toyful Projects
 
