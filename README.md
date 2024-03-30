@@ -27,11 +27,11 @@
 ### Realtime Study Recordings
 - [255doesnotexist/rust-lang-learning-examples](https://github.com/255doesnotexist/rust-lang-learning-examples)
 
-
 ### Contributions
 
 - [255doesnotexist/VIPS_co_visible_object_matching](https://github.com/255doesnotexist/VIPS_co_visible_object_matching) 
 - [255doesnotexist/tianyitap](https://github.com/255doesnotexist/tianyitap)
+  [(online demo)](https://tianyitap.vercel.app)
 - [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna)
 
 ### Avatar 
