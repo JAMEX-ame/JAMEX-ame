@@ -38,6 +38,16 @@
 
 - [Picrewの「キラキラ鱈メーカー3」でつくったよ！ ](https://picrew.me/share?cd=6oEa93XYuq) （#Picrew #キラキラ鱈メーカー3） 
 
+### Off-topic
+
+- Also a vocaloid / vocal-synth music producer. Some those of videos are already over 10w views.
+- Made homebrew UTAU voice bank on 2019. Distribution is still available on [Gitee](https://pfasoffical.gitee.io/). (Dubbing for Li's OC Jingcheng Cuo)
+- Created a UTAU recording application for Android with Xamarin on 2020 but source code is lost now. Binary package is available here: [Link](is-going-to-fill-later).
+- Participated in greendam voicebank AI-lization project. Made very first version voice-bank in DiffSinger and SVC-families on Dec. 2022.
+- Made a modified DDSP-SVC fork to enable [东洋雪莲](https://www.bilibili.com/video/BV1NV411F7Z9/) singing with higher, even unlimited voice pitch. (working privately)
+- Start using [博客园](https://www.cnblogs.com/CodeBuilder/p/6158435.html) for my homebrew software auto-updating features on 2016.
+- Created [Minesweeper game](https://github.com/lvneg1/minesweeper-in-cmd), Novel reader, C/S structural Chatting Room app (based on bare winsock32 lol) in Windows console with mouse click supported in the spare time of secondary school competitive programming training. (that GitHub account is no longer used tho)
+
 <span>
   <a href="https://www.github.com/255doesnotexist">
      <img src="https://github-readme-stats.vercel.app/api?username=255doesnotexist&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
@@ -45,5 +55,6 @@
   </a>
 </span>
 
-
+> ‍
 > "The best time to plant a tree is 20 years ago. The second-best time is now."
+> ‍
