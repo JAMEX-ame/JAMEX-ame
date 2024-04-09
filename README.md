@@ -25,7 +25,8 @@
 - [255doesnotexist/hospital_diagnosis_system](https://github.com/255doesnotexist/hospital_diagnosis_system)
 
 ### Realtime Study Recordings
-- [255doesnotexist/rust-lang-learning-examples](https://github.com/255doesnotexist/rust-lang-learning-examples)
+- [(The Rust Language Book exercises) 255doesnotexist/rust-lang-learning-examples](https://github.com/255doesnotexist/rust-lang-learning-examples)
+- [(OSComp 2024 Rustlings) LearningOS/rust-rustlings-2024-spring-255doesnotexist](https://github.com/LearningOS/rust-rustlings-2024-spring-255doesnotexist)
 
 ### Contributions
 
