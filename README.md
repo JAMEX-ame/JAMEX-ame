@@ -26,7 +26,7 @@
 
 ### Realtime Study Recordings
 - [(The Rust Language Book exercises) 255doesnotexist/rust-lang-learning-examples](https://github.com/255doesnotexist/rust-lang-learning-examples)
-- [(OSComp 2024 Rustlings, 104 of 110 completed) LearningOS/rust-rustlings-2024-spring-255doesnotexist](https://github.com/LearningOS/rust-rustlings-2024-spring-255doesnotexist)
+- [(OSComp 2024 Rustlings, 110 of 110 tasks completed) LearningOS/rust-rustlings-2024-spring-255doesnotexist](https://github.com/LearningOS/rust-rustlings-2024-spring-255doesnotexist)
 
 ### Contributions
 
