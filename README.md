@@ -27,7 +27,7 @@
 ### Realtime Study Recordings
 - [(The Rust Language Book exercises) 255doesnotexist/rust-lang-learning-examples](https://github.com/255doesnotexist/rust-lang-learning-examples)
 - [(OSComp 2024 Rustlings, 110 of 110 tasks completed) LearningOS/rust-rustlings-2024-spring-255doesnotexist](https://github.com/LearningOS/rust-rustlings-2024-spring-255doesnotexist)
-
+- [(YSU Data Analyze Class 2024 Spring) 255doesnotexist/YSUDataAnalyze2024Spring](https://github.com/255doesnotexist/YSUDataAnalyze2024Spring)
 ### Contributions
 
 - [(python & torch) 255doesnotexist/VIPS_co_visible_object_matching](https://github.com/255doesnotexist/VIPS_co_visible_object_matching) 
