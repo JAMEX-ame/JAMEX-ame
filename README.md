@@ -47,7 +47,15 @@
 - Participated in greendam voicebank AI-lization project. Made very first version voice-bank in DiffSinger and SVC-families on Dec. 2022.
 - Made a modified DDSP-SVC fork to enable [东洋雪莲](https://www.bilibili.com/video/BV1NV411F7Z9/) singing with higher, even unlimited voice pitch. (working privately)
 - Start using [博客园](https://www.cnblogs.com/CodeBuilder/p/6158435.html) for my homebrew software auto-updating features on 2016.
-- Created [Minesweeper game](https://github.com/lvneg1/minesweeper-in-cmd), Novel reader, C/S structural Chatting Room app (based on bare winsock32 lol) in Windows console with mouse click supported in the spare time of secondary school competitive programming training. (that GitHub account is no longer used tho)
+- Created [Minesweeper game](https://github.com/lvneg1/minesweeper-in-cmd), Novel reader, C/S structural Chatting Room app (based on bar
+e winsock32 lol) in Windows console with mouse click supported in the spare time of secondary school competitive programming training. (that GitHub account is no longer used tho)
+
+### GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=255doesnotexist)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### GitHub Statistics
 
 <span>
   <a href="https://www.github.com/255doesnotexist">
