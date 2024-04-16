@@ -17,12 +17,12 @@
 
 - Yanshan University, School of Information Science and Engineering, AIoT Group (July 2023 - Present)
 
-### Toyful Projects
+### Projects
 
-- [255doesnotexist/YSUNetLogin](https://github.com/255doesnotexist/YSUNetLogin)
-- [255doesnotexist/OpenCVEnvironmentVariableEasy](https://github.com/255doesnotexist/OpenCVEnvironmentVariableEasy)
-- [255doesnotexist/BlackEdgeID](https://github.com/255doesnotexist/BlackEdgeID)
-- [255doesnotexist/hospital_diagnosis_system](https://github.com/255doesnotexist/hospital_diagnosis_system)
+- [(C# / dotnet) 255doesnotexist/YSUNetLogin](https://github.com/255doesnotexist/YSUNetLogin)
+- [(C# / dotnet) 255doesnotexist/OpenCVEnvironmentVariableEasy](https://github.com/255doesnotexist/OpenCVEnvironmentVariableEasy)
+- [(python & FastAPI & OpenCV attempts) 255doesnotexist/BlackEdgeID](https://github.com/255doesnotexist/BlackEdgeID)
+- [(Vue 3 & element-plus-ui attempts) 255doesnotexist/hospital_diagnosis_system](https://github.com/255doesnotexist/hospital_diagnosis_system)
 
 ### Realtime Study Recordings
 - [(The Rust Language Book exercises) 255doesnotexist/rust-lang-learning-examples](https://github.com/255doesnotexist/rust-lang-learning-examples)
@@ -30,10 +30,10 @@
 
 ### Contributions
 
-- [255doesnotexist/VIPS_co_visible_object_matching](https://github.com/255doesnotexist/VIPS_co_visible_object_matching) 
-- [255doesnotexist/tianyitap](https://github.com/255doesnotexist/tianyitap)
+- [(python & torch) 255doesnotexist/VIPS_co_visible_object_matching](https://github.com/255doesnotexist/VIPS_co_visible_object_matching) 
+- [(jquery modifying) 255doesnotexist/tianyitap](https://github.com/255doesnotexist/tianyitap)
   [(online demo)](https://tianyitap.vercel.app)
-- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna)
+- [(nodejs) ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna)
 
 ### Avatar 
 
