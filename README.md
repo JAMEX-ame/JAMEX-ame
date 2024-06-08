@@ -27,8 +27,9 @@
 ### Realtime Study Recordings
 - [(The Rust Language Book exercises) 255doesnotexist/rust-lang-learning-examples](https://github.com/255doesnotexist/rust-lang-learning-examples)
 - [(OSComp 2024 Part.1 Rustlings, 110 of 110 tasks completed) LearningOS/rust-rustlings-2024-spring-255doesnotexist](https://github.com/LearningOS/rust-rustlings-2024-spring-255doesnotexist)
-- [(OSComp 2024 Part.2 rCore OS Lab, 2 of 8 tasks completed) LearningOS/2024s-rcore-255doesnotexist](https://github.com/LearningOS/2024s-rcore-255doesnotexist)
+- [(OSComp 2024 Part.2 rCore OS Lab, 4 of 8 tasks completed) LearningOS/2024s-rcore-255doesnotexist](https://github.com/LearningOS/2024s-rcore-255doesnotexist)
 - [(rCore OS Lab ch1 finished at main branch) 255doesnotexist/rCore-Tutorial-Code-2024S](https://github.com/255doesnotexist/rCore-Tutorial-Code-2024S)
+- [(EulixOS 2024 Stage 2, 100 of 100 scored) 255doesnotexist/eulixos-2024-exercises-stage-1](https://github.com/255doesnotexist/eulixos-2024-exercises-stage-1)
 - [(YSU Data Analyze Class 2024 Spring) 255doesnotexist/YSUDataAnalyze2024Spring](https://github.com/255doesnotexist/YSUDataAnalyze2024Spring)
 - [(SUT Numerical Analysis 2024 Spring) 255doesnotexist/SUTNumericalAnalysis](https://github.com/255doesnotexist/SUTNumericalAnalysis)
 ### Contributions
