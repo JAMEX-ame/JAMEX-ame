@@ -16,35 +16,99 @@
 ### Experience
 
 - Yanshan University, School of Information Science and Engineering, AIoT Group (July 2023 - Present)
+- PLCT Lab, Testing Branch, Support Matrix (July 2024 - October 2024?)
 
 ### Projects
 
-- [(C# / dotnet) 255doesnotexist/YSUNetLogin](https://github.com/255doesnotexist/YSUNetLogin)
+<details>
+<summary>2024 projects</summary>
+
+- [(Rust) 255doesnotexist/lintestor](https://github.com/255doesnotexist/lintestor)
+  - Yet another Linux package testor
+- [(Rust) 255doesnotexist/ruskgpt](https://github.com/255doesnotexist/ruskgpt)
+  - Yet another async CLI LLM interface
+  - Local LLM Agent for you (WIP)
+- [255doesnotexist/translations]() ([online site](https://255doesnotexist.github.io/translations/))
+  - 汉化文章翻译集散地。
+
+</details>
+
+<details>
+<summary>2023 projects</summary>
+
 - [(C# / dotnet) 255doesnotexist/OpenCVEnvironmentVariableEasy](https://github.com/255doesnotexist/OpenCVEnvironmentVariableEasy)
+  - Somthing make opencv installation simple
+
+</details>
+
+
+<details>
+<summary>2022 projects</summary>
+
+- [(C# / dotnet) 255doesnotexist/YSUNetLogin](https://github.com/255doesnotexist/YSUNetLogin)
+  - Authentication daemon for campus network
+
+</details>
+
+<details>
+<summary>Hei Li Shi projects</summary>
+
 - [(python & FastAPI & OpenCV attempts) 255doesnotexist/BlackEdgeID](https://github.com/255doesnotexist/BlackEdgeID)
+  - Hei Li Shi
+
 - [(Vue 3 & element-plus-ui attempts) 255doesnotexist/hospital_diagnosis_system](https://github.com/255doesnotexist/hospital_diagnosis_system)
+  - Hei Li Shi * 2
+
+</details>
 
 ### Realtime Study Recordings
+
+<details>
+<summary>The Rust Language - 2024 Spring</summary>
 - [(The Rust Language Book exercises) 255doesnotexist/rust-lang-learning-examples](https://github.com/255doesnotexist/rust-lang-learning-examples)
+</details>
+
+<details>
+<summary>rCore Camp - 2024 Spring</summary>
 - [(OSComp 2024 Part.1 Rustlings, 110 of 110 tasks completed) LearningOS/rust-rustlings-2024-spring-255doesnotexist](https://github.com/LearningOS/rust-rustlings-2024-spring-255doesnotexist)
 - [(OSComp 2024 Part.2 rCore OS Lab, 4 of 8 tasks completed) LearningOS/2024s-rcore-255doesnotexist](https://github.com/LearningOS/2024s-rcore-255doesnotexist)
 - [(rCore OS Lab ch1 finished at main branch) 255doesnotexist/rCore-Tutorial-Code-2024S](https://github.com/255doesnotexist/rCore-Tutorial-Code-2024S)
+</details>
+
+<details>
+<summary>EulixOS Camp - 2024 Spring</summary>
 - [(EulixOS 2024 Stage 1, 100 of 100 scored) 255doesnotexist/eulixos-2024-exercises-stage-1](https://github.com/255doesnotexist/eulixos-2024-exercises-stage-1)
 - [(EulixOS 2024 Stage 2, 100 of 100 scored) 255doesnotexist/eulixos-2024-exercises-stage-2](https://github.com/255doesnotexist/eulixos-2024-exercises-stage-2)
+</details>
+
+<details>
+<summary>YSU Campus - 2024 Spring</summary>
 - [(YSU Data Analyze Class 2024 Spring) 255doesnotexist/YSUDataAnalyze2024Spring](https://github.com/255doesnotexist/YSUDataAnalyze2024Spring)
 - [(SUT Numerical Analysis 2024 Spring) 255doesnotexist/SUTNumericalAnalysis](https://github.com/255doesnotexist/SUTNumericalAnalysis)
+</details>
+
 ### Contributions
+
+<details>
+<summary>Expand</summary>
+
+- those are outdated.
 
 - [(python & torch) 255doesnotexist/VIPS_co_visible_object_matching](https://github.com/255doesnotexist/VIPS_co_visible_object_matching) 
 - [(jquery modifying) 255doesnotexist/tianyitap](https://github.com/255doesnotexist/tianyitap)
   [(online demo)](https://tianyitap.vercel.app)
 - [(nodejs) ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna)
 
+</details>
+
 ### Avatar 
 
 - [Picrewの「キラキラ鱈メーカー3」でつくったよ！ ](https://picrew.me/share?cd=6oEa93XYuq) （#Picrew #キラキラ鱈メーカー3） 
 
 ### Off-topic
+
+<details>
+<summary>Expand</summary>
 
 - Also a vocaloid / vocal-synth music producer. Some those of videos are already over 10w views.
 - Made homebrew UTAU voice bank on 2019. Distribution is still available on [Gitee](https://pfasoffical.gitee.io/). (Dubbing for Li's OC Jingcheng Cuo)
@@ -54,6 +118,8 @@
 - Start using [博客园](https://www.cnblogs.com/CodeBuilder/p/6158435.html) for my homebrew software auto-updating features on 2016.
 - Created [Minesweeper game](https://github.com/lvneg1/minesweeper-in-cmd), Novel reader, C/S structural Chatting Room app (based on bar
 e winsock32 lol) in Windows console with mouse click supported in the spare time of secondary school competitive programming training. (that GitHub account is no longer used tho)
+
+</details>
 
 ### GitHub Trophy
 
@@ -65,7 +131,6 @@ e winsock32 lol) in Windows console with mouse click supported in the spare time
 <span>
   <a href="https://www.github.com/255doesnotexist">
      <img src="https://github-readme-stats.vercel.app/api?username=255doesnotexist&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
-     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=255doesnotexist&layout=compact&langs_count=8" alt="Top Langs" height="185px" />
   </a>
 </span>
 
