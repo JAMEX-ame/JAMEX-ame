@@ -65,26 +65,38 @@
 
 <details>
 <summary>The Rust Language - 2024 Spring</summary>
+
 - [(The Rust Language Book exercises) 255doesnotexist/rust-lang-learning-examples](https://github.com/255doesnotexist/rust-lang-learning-examples)
+
 </details>
 
 <details>
 <summary>rCore Camp - 2024 Spring</summary>
+
 - [(OSComp 2024 Part.1 Rustlings, 110 of 110 tasks completed) LearningOS/rust-rustlings-2024-spring-255doesnotexist](https://github.com/LearningOS/rust-rustlings-2024-spring-255doesnotexist)
+
 - [(OSComp 2024 Part.2 rCore OS Lab, 4 of 8 tasks completed) LearningOS/2024s-rcore-255doesnotexist](https://github.com/LearningOS/2024s-rcore-255doesnotexist)
+
 - [(rCore OS Lab ch1 finished at main branch) 255doesnotexist/rCore-Tutorial-Code-2024S](https://github.com/255doesnotexist/rCore-Tutorial-Code-2024S)
+
 </details>
 
 <details>
 <summary>EulixOS Camp - 2024 Spring</summary>
+
 - [(EulixOS 2024 Stage 1, 100 of 100 scored) 255doesnotexist/eulixos-2024-exercises-stage-1](https://github.com/255doesnotexist/eulixos-2024-exercises-stage-1)
+
 - [(EulixOS 2024 Stage 2, 100 of 100 scored) 255doesnotexist/eulixos-2024-exercises-stage-2](https://github.com/255doesnotexist/eulixos-2024-exercises-stage-2)
+
 </details>
 
 <details>
 <summary>YSU Campus - 2024 Spring</summary>
+
 - [(YSU Data Analyze Class 2024 Spring) 255doesnotexist/YSUDataAnalyze2024Spring](https://github.com/255doesnotexist/YSUDataAnalyze2024Spring)
+  
 - [(SUT Numerical Analysis 2024 Spring) 255doesnotexist/SUTNumericalAnalysis](https://github.com/255doesnotexist/SUTNumericalAnalysis)
+
 </details>
 
 ### Contributions
@@ -95,8 +107,10 @@
 - those are outdated.
 
 - [(python & torch) 255doesnotexist/VIPS_co_visible_object_matching](https://github.com/255doesnotexist/VIPS_co_visible_object_matching) 
+
 - [(jquery modifying) 255doesnotexist/tianyitap](https://github.com/255doesnotexist/tianyitap)
   [(online demo)](https://tianyitap.vercel.app)
+
 - [(nodejs) ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna)
 
 </details>
