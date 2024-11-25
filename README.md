@@ -79,6 +79,8 @@
 
 - [(rCore OS Lab ch1 finished at main branch) 255doesnotexist/rCore-Tutorial-Code-2024S](https://github.com/255doesnotexist/rCore-Tutorial-Code-2024S)
 
+- 烂尾了，正如主播的人生一般。
+
 </details>
 
 <details>
@@ -104,7 +106,7 @@
 <details>
 <summary>Expand</summary>
 
-- those are outdated.
+- those are outdated. 而且我也懒得写了。
 
 - [(python & torch) 255doesnotexist/VIPS_co_visible_object_matching](https://github.com/255doesnotexist/VIPS_co_visible_object_matching) 
 
@@ -148,6 +150,10 @@ e winsock32 lol) in Windows console with mouse click supported in the spare time
   </a>
 </span>
 
+> ................................................................................
 > ‍
 > "The best time to plant a tree is 20 years ago. The second-best time is now."
-> ‍
+>
+> ................................................................................
+
+{{黑幕|那都是骗人的 }}
