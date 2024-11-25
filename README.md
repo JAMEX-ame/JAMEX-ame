@@ -16,7 +16,7 @@
 ### Experience
 
 - Yanshan University, School of Information Science and Engineering, AIoT Group (July 2023 - Present)
-- PLCT Lab, Testing Branch, Support Matrix (July 2024 - October 2024?)
+- PLCT Lab, Testing Branch, Support Matrix (July 2024 - ?)
 
 ### Projects
 
