@@ -7,8 +7,8 @@
 </h3>
 
 ## 兴趣爱好
-- 王者荣耀
-- 以撒的结合
+-  王者荣耀
+-  以撒的结合
 
 <!-- <p align="center">
   <a href="mailto:chenyejin2004@stumail.ysu.edu.cn">Email</a> |
