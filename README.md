@@ -6,6 +6,10 @@
   👋Hi! I'm JAMEX-ame.
 </h3>
 
+## 兴趣爱好
+- 王者荣耀
+- 以撒的结合
+
 <!-- <p align="center">
   <a href="mailto:chenyejin2004@stumail.ysu.edu.cn">Email</a> |
   <a href="https://space.bilibili.com/10556301" target="_blank">Bilibili</a> |
